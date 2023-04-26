@@ -1,7 +1,7 @@
 # Web Calculator
 A simple calculator built using HTML, CSS, and JavaScript.
 
-![Alt text](./ss.jpg)
+![Alt text](./ss.png)
 
 ## Features
 Basic arithmetic operations: addition, subtraction, multiplication, and division
